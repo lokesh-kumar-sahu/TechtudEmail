@@ -1,2 +1,0 @@
-# TechtudEmail
-Techtud mailer template
